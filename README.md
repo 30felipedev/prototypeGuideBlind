@@ -1,0 +1,1 @@
+A prototype of a glasses that uses machine learning to assist visually impaired individuals in controlled environments. It identifies specific objects and provides real-time feedback through vibrations
